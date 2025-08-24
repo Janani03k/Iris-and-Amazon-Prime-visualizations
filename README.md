@@ -66,12 +66,12 @@ The analysis was conducted in a Jupyter Notebook using the following tools and l
 1. Clone this repository:
 
    ```bash
-   git clone <this-repo-link>
+   git clone https://github.com/Janani03k/Iris-and-Amazon-Prime-visualizations.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd project-folder
+   cd Iris-and-Amazon-Prime-visualizations
    ```
 3. Install required dependencies:
 
